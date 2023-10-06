@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1669971849 source:c:\users\sunda\documents\school\ooprogramming\idlegame\main.cpp
+	<iostream>
+	<vector>
+	"Location.h"
+	"Resources.h"
+
+1669949716 c:\users\sunda\documents\school\ooprogramming\idlegame\include\location.h
+	<iostream>
+
+1669971965 source:c:\users\sunda\documents\school\ooprogramming\idlegame\src\resources.cpp
+	"Resources.h"
+
+1669970271 c:\users\sunda\documents\school\ooprogramming\idlegame\include\resources.h
+	<fstream>
+	"Location.h"
+
+1669949695 source:c:\users\sunda\documents\school\ooprogramming\idlegame\src\location.cpp
+	"Location.h"
+
+1669054932 source:c:\users\sunda\documents\school\ooprogramming\idlegame\src\inventory.cpp
+	"Inventory.h"
+
+1669054717 c:\users\sunda\documents\school\ooprogramming\idlegame\include\inventory.h
+	"Resources.h"
+
